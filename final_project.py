@@ -1,9 +1,3 @@
-"""
-referensi : https://youtu.be/8AHGyp2AgNk
-            https://youtu.be/sXjpkcF7rPQ  
-            https://youtu.be/AURwCHb7BSo         
-"""
-
 import sys 
 import smtplib
 import getpass
@@ -52,3 +46,12 @@ if __name__ == "__main__" :
     MainClass()
     print(70*"-")
     sys.exit()
+
+
+"""
+referensi : https://youtu.be/8AHGyp2AgNk
+            https://youtu.be/sXjpkcF7rPQ  
+            https://youtu.be/AURwCHb7BSo  
+            https://www.petanikode.com/python-file/
+"""
+
